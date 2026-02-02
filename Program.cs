@@ -21,7 +21,7 @@
             // Hello Bob Smith you are 14 years old
             Console.WriteLine("Hello, " + FirstName + " " + SurName + " you are " + Age + " years old.");
             // save and commit your program
-            // add evidence of the test input and your own input running the program 
+            // add evidence of the test input and your own input running the program  
         }
     }
 }
